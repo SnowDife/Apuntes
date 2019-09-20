@@ -1,0 +1,22 @@
+#+title: Apuntes de gráficas
+
+#+author: Leslie Guadalupe 
+
+* Definición de gráfica
+
+Una gráfica \(G\) consta de dos conjutnos, uno llamado el conjunto de
+vertices y otro llamado el conjunto de aristas
+
+** Vertices y aristas
+
+** Orden y tamaño 
+
+** Gráficas regulares
+
+*** Gráficas cúbicas
+
+** Isomorfismo de gráficas 
+
+* COmplemento de una gráfica
+
+* EL teorema fundamental 
